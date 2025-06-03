@@ -1,0 +1,43 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution/Packaging
+.Python
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+pyenv/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Python-specific
+*.log
+*.pot
+*.mo
+*.coverage
+nosetests.xml
+coverage.xml
+*.hypothesis/
+*.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.env*
